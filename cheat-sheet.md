@@ -4,13 +4,16 @@
 - Books
   - [https://www.typewolf.com/typography-books](https://www.typewolf.com/typography-books)
   - [https://thefutur.com/content/typography-design-books](https://thefutur.com/content/typography-design-books)
-- Resources
-  - [https://www.typewolf.com/resources](https://www.typewolf.com/resources)
 - Type Knowledge
   - [Understanding Typography](https://m2.material.io/design/typography/understanding-typography.html#type-properties) – _Material Design_
   - [https://typefacts.com/artikel/anfuehrungszeichen](https://typefacts.com/artikel/anfuehrungszeichen)
   - [Pro Web Type](https://prowebtype.com) – _Donny Truong_
   - [Web Typografie](https://www.webdesign-essentials.ch/kategorien/web-typografie)
+  - [Typesetting How To’s](https://wetype.xyz/share)
+  - [Digital Typography](https://wetype.xyz/code)
+- Resources
+  - [Typewolf’s Typography Resources](https://www.typewolf.com/resources)
+  - [Rosalie Wagner’s Type Design List](https://rosaliewagner.com/type-links)
 
 
 ## Finding typefaces
